@@ -5,5 +5,4 @@ xhtml2pdf
 whitenoise
 setuptools
 psycopg2-binary
-collectstatic
 gunicorn
