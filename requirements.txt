@@ -6,3 +6,4 @@ whitenoise
 setuptools
 psycopg2-binary
 gunicorn
+distutils
